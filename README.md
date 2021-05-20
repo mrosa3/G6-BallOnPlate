@@ -1,15 +1,15 @@
 # MECA_482_G6_BallOnPlate
 ## Meca 482 Control Systems Design Project
 
-                             Project Members: Matthew Rosa, Mark Nelson, Ian Yasui, Dylan Radey
+                          Project Members: Matthew Rosa, Mark Nelson, Ian Yasui, Dylan Radey
 
-                                             California State University, Chico
+                                          California State University, Chico
 
-                       College of Mechanical and Mechatronic Engineering and Advance Manufacturing
+                    College of Mechanical and Mechatronic Engineering and Advance Manufacturing
 
-                                                       Ball on Plate
+                                                    Ball on Plate
 
-                                                        Spring 2020
+                                                     Spring 2020
 
 Table of Contents
 1. [Introduction](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#1-introduction)
