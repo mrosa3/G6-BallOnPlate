@@ -1,5 +1,5 @@
 # MECA_482_G6_BallOnPlate
-##                                              Meca 482 Control Systems Design Project
+## Meca 482 Control Systems Design Project
 
                                 Project Members: Matthew Rosa, Mark Nelson, Ian Yasui, Dylan Radey
 
@@ -15,8 +15,8 @@ Table of Contents
 1. [Introduction](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#1-introduction)
 2. [System Requirements](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#2-system-requirements)
 3. [MATLAB](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#3-matlab)
-4. Simulink
-5. Coppelia
+4. [Simulink](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#4-simulink)
+5. [Coppelia](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#5-coppelia)
 
 ## 1. Introduction
 testing testing testing
