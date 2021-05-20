@@ -13,8 +13,8 @@
 
 Table of Contents
 1. [Introduction](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#1-introduction)
-2. System Requirements
-3. MATLAB
+2. [System Requirements](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#2-system-requirements)
+3. [MATLAB](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#3-matlab)
 4. Simulink
 5. Coppelia
 
