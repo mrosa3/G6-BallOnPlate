@@ -12,7 +12,7 @@
                                                            Spring 2020
 
 Table of Contents
-1. [Introduction](main/README.md#1-introduction)
+1. [Introduction](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#1-introduction)
 2. System Requirements
 3. MATLAB
 4. Simulink
