@@ -1,5 +1,5 @@
 # MECA_482_G6_BallOnPlate
-## Meca 482 Control Systems Design Project
+                                            ## Meca 482 Control Systems Design Project
 
                                 Project Members: Matthew Rosa, Mark Nelson, Ian Yasui, Dylan Radey
 
