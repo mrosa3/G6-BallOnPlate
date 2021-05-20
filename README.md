@@ -19,7 +19,7 @@ Table of Contents
 5. [Coppelia](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#5-coppelia)
 
 ## 1. Introduction
-testing testing testing
+The ball and plate balancing system consists of a plate which can be tilted by two dual axis servo motors with a ball rolling around on top of the plate.
 
 ## 2. System Requirements
 testing testing testing
