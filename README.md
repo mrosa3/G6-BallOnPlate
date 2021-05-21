@@ -27,7 +27,9 @@ The ball and plate balancing system consists of a plate which can be tilted by t
 testing testing testing
 
 ## 3. MATLAB
-testing testing testing
+![2](https://user-images.githubusercontent.com/79475735/119075950-8f034d00-b9a6-11eb-9c38-be996b5b8800.JPG)
+![3](https://user-images.githubusercontent.com/79475735/119075953-90cd1080-b9a6-11eb-8f2e-e60293bf8e7c.JPG)
+![4](https://user-images.githubusercontent.com/79475735/119075959-91fe3d80-b9a6-11eb-88b6-d1eff546649d.JPG)
 
 ## 4. Simulink
 testing testing testing
