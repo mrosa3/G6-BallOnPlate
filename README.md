@@ -132,11 +132,11 @@ Figure 15 below is the final Simulink file used. The desired position of the bal
 
 ## 5. Coppelia
 ![5](https://user-images.githubusercontent.com/79475735/119076183-f9b48880-b9a6-11eb-9773-8b7485cd161f.JPG)
-<p align="center"><b>Figure 14:</b> Coppelia model for the system</p>
+<p align="center"><b>Figure 16:</b> Coppelia model for the system</p>
 The coppelia model was created using multiple joints and dynamic objects. A spherical joint attached to the center rod suspends the plate. The ball is intended to balance ontop of the plate as seen in the model. Two motors are attached for the x and y axis respectively. Spherical joints are attached the revolving joints to acatuate the arms. A vision sensor is used looking down on top of the model to sense the balls position as it moves. 
 
 ## 6. Conclusion
-Unfortunately, the ball and plate model did not function correctly. There was verification that the coppelia simulation is linked with matlab but the two do not respond together. The video file attached shows that the coppelia simulation has joints that can control the plate but do not correspond to the matlab commands.
+Unfortunately, the ball and plate model did not function correctly. There was verification that the coppelia simulation is linked with matlab but the two do not respond together. With more time and information to troubleshoot, it is likely the Matlab code and coppelia simulation would have been able to communicate. Based off the testing, if the connection to coppelia simulation was successful, then the model would have functioned within the project requirements. The video file attached shows that the coppelia simulation has joints that can control the plate but do not correspond to the matlab commands.
 
 ## 7. References
 [1] Nise, Norman S. Control Systems Engineering. Hoboken, NJ: Wiley, 2015.
