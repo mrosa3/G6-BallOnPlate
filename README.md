@@ -36,8 +36,8 @@ Taking into account the arm of the motor, its relationship to the angle of the p
 
 **Figure 3** : Linear equation of motion with motor arm
 
-**Figure 4** : ![image](https://user-images.githubusercontent.com/80434019/119133486-ceef2200-b9f0-11eb-97d0-ee4da8c31a8f.png)
-
+![image](https://user-images.githubusercontent.com/80434019/119133486-ceef2200-b9f0-11eb-97d0-ee4da8c31a8f.png)
+**Figure 4** : Requirements of a working system
 ## 3. MATLAB and Testing
 ![2](https://user-images.githubusercontent.com/79475735/119075950-8f034d00-b9a6-11eb-9c38-be996b5b8800.JPG)
 ![3](https://user-images.githubusercontent.com/79475735/119075953-90cd1080-b9a6-11eb-8f2e-e60293bf8e7c.JPG)
