@@ -9,7 +9,7 @@
 
                                                     Ball on Plate
 
-                                                     Spring 2020
+                                                     Spring 2021
 
 Table of Contents
 1. [Introduction](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#1-introduction)
