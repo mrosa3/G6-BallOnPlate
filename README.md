@@ -32,7 +32,7 @@ testing testing testing
 ![4](https://user-images.githubusercontent.com/79475735/119075959-91fe3d80-b9a6-11eb-88b6-d1eff546649d.JPG)
 
 ## 4. Simulink
-testing testing testing
+![6](https://user-images.githubusercontent.com/79475735/119076328-384a4300-b9a7-11eb-84bf-fa7ae332b0c4.JPG)
 
 ## 5. Coppelia
 ![5](https://user-images.githubusercontent.com/79475735/119076183-f9b48880-b9a6-11eb-9773-8b7485cd161f.JPG)
