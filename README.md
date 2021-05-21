@@ -48,16 +48,26 @@ Taking into account the arm of the motor, its relationship to the angle of the p
 </p>
 <p align="center"><b>Figure 4:</b> Requirements of a working system</p>
 
+Based on the measured ball position X(S), the servo load shaft angle is computed to attain the desired ball position Xd(S) as seen below in the block diagram. The inner loop of the block diagram controls the servo position using a proportional gain k,ps. 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79475735/119189185-966f3880-ba30-11eb-87fc-4b61052f509d.JPG">
+</p>
+<p align="center"><b>Figure 5:</b> Block diagram of control system</p>
+
 ## 3. MATLAB and Testing
 ![2](https://user-images.githubusercontent.com/79475735/119075950-8f034d00-b9a6-11eb-9c38-be996b5b8800.JPG)
 ![3](https://user-images.githubusercontent.com/79475735/119075953-90cd1080-b9a6-11eb-8f2e-e60293bf8e7c.JPG)
 ![4](https://user-images.githubusercontent.com/79475735/119075959-91fe3d80-b9a6-11eb-88b6-d1eff546649d.JPG)
+<p align="center"><b>Figure 6:</b> MATLAB code for the system</p>
 
 ## 4. Simulink
 ![6](https://user-images.githubusercontent.com/79475735/119076328-384a4300-b9a7-11eb-84bf-fa7ae332b0c4.JPG)
+<p align="center"><b>Figure 7:</b> Simulink diagram for the system</p>
 
 ## 5. Coppelia
 ![5](https://user-images.githubusercontent.com/79475735/119076183-f9b48880-b9a6-11eb-9773-8b7485cd161f.JPG)
+<p align="center"><b>Figure 8:</b> Coppelia model for the system</p>
 The coppelia model was created using multiple joints and dynamic objects. A spherical joint attached to the center rod suspends the plate. The ball is intended to balance ontop of the plate as seen in the model. Two motors are attached for the x and y axis respectively. Spherical joints are attached the revolving joints to acatuate the arms. A vision sensor is used looking down on top of the model to sense the balls position as it moves. 
 
 ## 6. Conclusion
