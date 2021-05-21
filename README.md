@@ -64,3 +64,6 @@ The coppelia model was created using multiple joints and dynamic objects. A sphe
 Unfortanely the ball and plate model did not function correctly. There was verification that the coppelia simulation is linked with matlab but the two do not respond together. The video file attached shows that the coppelia simulation has joints that can control the plate but do not correspond to the matlab commands.
 
 ## 7. References
+[1] Nise, Norman S. Control Systems Engineering. Hoboken, NJ: Wiley, 2015.
+
+[2] Quanser inc. 2 DOF Ball Balancer Woorkbook, 2013.
