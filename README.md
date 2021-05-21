@@ -65,6 +65,12 @@ Based on the measured ball position X(S), the servo load shaft angle is computed
 ![6](https://user-images.githubusercontent.com/79475735/119076328-384a4300-b9a7-11eb-84bf-fa7ae332b0c4.JPG)
 <p align="center"><b>Figure 7:</b> Simulink diagram for the system</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79475735/119190677-86f0ef00-ba32-11eb-9b12-4d2d25e30372.jpg">
+</p>
+<p align="center"><b>Figure 8:</b> Output data from Matlab</p>
+Figure 8 above is the output data from Matlab that displays a posiition vs time plot of the ball. 
+
 ## 5. Coppelia
 ![5](https://user-images.githubusercontent.com/79475735/119076183-f9b48880-b9a6-11eb-9773-8b7485cd161f.JPG)
 <p align="center"><b>Figure 8:</b> Coppelia model for the system</p>
