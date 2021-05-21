@@ -13,8 +13,8 @@
 
 Table of Contents
 1. [Introduction](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#1-introduction)
-2. [System Requirements](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#2-system-requirements)
-3. [MATLAB](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#3-matlab)
+2. [Math Model and System Requirements](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#2-math-model-and-system-requirements)
+3. [MATLAB and Testing](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#3-matlab-and-testing)
 4. [Simulink](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#4-simulink)
 5. [Coppelia](https://github.com/mrosa3/G6-BallOnPlate/blob/main/README.md#5-coppelia)
 
@@ -23,10 +23,20 @@ The ball and plate balancing system consists of a plate which can be tilted by t
 ![model](https://user-images.githubusercontent.com/79475735/119054435-7d0cb480-b97c-11eb-9089-aa58715eb148.JPG)
 																						
                                             Figure 1: Model of ball and plate system
-## 2. System Requirements
-testing testing testing
+## 2. Math Model and System Requirements
+From the model in figure 1, solving for the equation of motor of the ball gives the nonlinear equation below:
 
-## 3. MATLAB
+![](Images/nonlineareqn.png)
+
+**Figure 2** : Nonlinear equation of motion
+
+Taking into account the arm of the motor, its relationship to the angle of the plate, and using small angle approximation to linearize the equation gives the following:
+
+![](Images/LinearwArm.png)
+
+**Figure 3** : Linear equation of motion with motor arm
+
+## 3. MATLAB and Testing
 ![2](https://user-images.githubusercontent.com/79475735/119075950-8f034d00-b9a6-11eb-9c38-be996b5b8800.JPG)
 ![3](https://user-images.githubusercontent.com/79475735/119075953-90cd1080-b9a6-11eb-8f2e-e60293bf8e7c.JPG)
 ![4](https://user-images.githubusercontent.com/79475735/119075959-91fe3d80-b9a6-11eb-88b6-d1eff546649d.JPG)
