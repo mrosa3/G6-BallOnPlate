@@ -77,7 +77,7 @@ Figure 8 above is the output data from Matlab that displays a posiition vs time 
 The coppelia model was created using multiple joints and dynamic objects. A spherical joint attached to the center rod suspends the plate. The ball is intended to balance ontop of the plate as seen in the model. Two motors are attached for the x and y axis respectively. Spherical joints are attached the revolving joints to acatuate the arms. A vision sensor is used looking down on top of the model to sense the balls position as it moves. 
 
 ## 6. Conclusion
-Unfortanely the ball and plate model did not function correctly. There was verification that the coppelia simulation is linked with matlab but the two do not respond together. The video file attached shows that the coppelia simulation has joints that can control the plate but do not correspond to the matlab commands.
+Unfortunately, the ball and plate model did not function correctly. There was verification that the coppelia simulation is linked with matlab but the two do not respond together. The video file attached shows that the coppelia simulation has joints that can control the plate but do not correspond to the matlab commands.
 
 ## 7. References
 [1] Nise, Norman S. Control Systems Engineering. Hoboken, NJ: Wiley, 2015.
