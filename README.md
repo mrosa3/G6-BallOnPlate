@@ -57,5 +57,6 @@ Taking into account the arm of the motor, its relationship to the angle of the p
 
 ## 5. Coppelia
 ![5](https://user-images.githubusercontent.com/79475735/119076183-f9b48880-b9a6-11eb-9773-8b7485cd161f.JPG)
+Coppelia model was created using multiple joints and dynamic objects. A spherical joint attached to the center rod suspends the plate. The ball is intended to balance ontop of the plate as seen in the model. Two motors are attached for the x and y axis respectively. Spherical joints are attached the revolving joints to acatuate the arms. A vision sensor is used looking down on top of the model to sense the balls position as it moves. 
 
 ## 6. References
